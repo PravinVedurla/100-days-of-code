@@ -10,3 +10,10 @@
                   http://dacatay.com/data-science/part-6-time-series-prediction-neural-networks-python/
                   
 ### Day 1: July 8,2018
+
+**Today's Progress**: LSTM Neural network trained for prediction. Also worked on a few future projects.
+
+**Thoughts**: The LSTM NN came out pretty well at the end as expected. On a side note i have always planned on working on the BLizzards Starcraft2's DNN api upon which i've done some minute research and am exited to hop my pens pretty soon. 
+
+**LINKS**: https://www.youtube.com/watch?v=v3LJ6VvpfgI (SC2)
+           https://towardsdatascience.com/bitcoin-price-prediction-using-lstm-9eb0938c22bd
