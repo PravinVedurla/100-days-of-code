@@ -17,3 +17,12 @@
 
 **LINKS**: https://www.youtube.com/watch?v=v3LJ6VvpfgI (SC2)
            https://towardsdatascience.com/bitcoin-price-prediction-using-lstm-9eb0938c22bd
+
+## Day 2: July 9,2018
+
+**Today's progress**: Ether project almost finished. Progress on SC2 project.
+
+**Thoughts**: Worked on visualizing Nomalized data which seems quite impotent. NN code pushed and is ready to be fed with some juicy data. Researched about a few more functions that can be done with the SC2 library.
+
+**Links**: https://www.youtube.com/watch?v=OxC74ojgV-Y (SC2)
+
