@@ -26,3 +26,8 @@
 
 **Links**: https://www.youtube.com/watch?v=OxC74ojgV-Y (SC2)
 
+## Day 3: July 10,2018
+
+**Today's progress**: Explored Matlab and Progress on SC2.
+
+**Thoughts**: I was exploring Matlab right here in Github to findout some really cool ways of Data visualization with my Ether project. And did also make some forward juling with the SC2 project.
