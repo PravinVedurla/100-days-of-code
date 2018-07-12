@@ -35,3 +35,11 @@
 **Today's progress**: Explored Matlab and Progress on SC2.
 
 **Thoughts**: I was exploring Matlab right here in Github to findout some really cool ways of Data visualization with my Ether project. And did also make some forward juling with the SC2 project.
+
+## Day 4: July 11,2018
+
+**Progress**: Made further progress on SC2 but Got stuck to a wall with the Ether project.
+
+**Thoughts**: Discovered a major flaw in my Dataset that i need to rectify, So i have build the entire thing again which is defenitely frustrating. Disovered some intermediate level Probe apis in SC2 and it all started making sense.
+
+## Day 5: July 12,2018
