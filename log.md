@@ -43,3 +43,15 @@
 **Thoughts**: Discovered a major flaw in my Dataset that i need to rectify, So i have build the entire thing again which is defenitely frustrating. Disovered some intermediate level Probe apis in SC2 and it all started making sense.
 
 ## Day 5: July 12,2018
+
+**Progress**: Progress on SC2.
+
+**Thoughts**: Played a bit of SC2 as i could observe the strategies and 'how everything works' aspect of the game. As a whole enjoyed the whole knowing the game thing. Probably would be working on Protoss race.
+
+**Links**: Battle.net
+
+## Day 6: July 13,2018
+
+**Progress**: Progress on both the Projects(SC2 and Ether)
+
+**Thoughts**: Worked on some basic level Protoss strats and observed how it works out with the end result. Refined the Dataset again inorder to fit it properly this time into the NN and hasnt been stupid, Yet. 
