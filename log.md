@@ -55,3 +55,11 @@
 **Progress**: Progress on both the Projects(SC2 and Ether)
 
 **Thoughts**: Worked on some basic level Protoss strats and observed how it works out with the end result. Refined the Dataset again inorder to fit it properly this time into the NN and hasnt been stupid, Yet. 
+
+## Day -: July 26, 2018
+
+**Progress**: None :(
+
+**Thoughts**: Got completely offtrack as my family needed my help, Been too damn long since i've touched my laptop. Gotta quickly wrap up things with the Ether proect and start up SC2 ASAP before i get completely occupied with College stuff. COmpletely regret not being able to contribute to this challange but i really didnt have an actual choice as Family comes first.
+
+**TIME TO PUT AT 2 HOURS A DAY FROM NOW ON TO SPEED UP THINGS**
