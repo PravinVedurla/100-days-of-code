@@ -62,4 +62,6 @@
 
 **Thoughts**: Got completely offtrack as my family needed my help, Been too damn long since i've touched my laptop. Gotta quickly wrap up things with the Ether proect and start up SC2 ASAP before i get completely occupied with College stuff. COmpletely regret not being able to contribute to this challange but i really didnt have an actual choice as Family comes first.
 
+**Links**: https://www.reddit.com/r/MachineLearning/comments/8kbmyn/d_if_you_had_to_show_one_paper_to_someone_to_show/ (Found this supercool forum to find new papers)
+
 **TIME TO PUT ATLEAST 2 HOURS A DAY FROM NOW ON TO SPEED UP THINGS**
