@@ -65,3 +65,10 @@
 **Links**: https://www.reddit.com/r/MachineLearning/comments/8kbmyn/d_if_you_had_to_show_one_paper_to_someone_to_show/ (Found this supercool forum to find new papers)
 
 **TIME TO PUT ATLEAST 2 HOURS A DAY FROM NOW ON TO SPEED UP THINGS**
+
+## Days 7,8 : July 27,28 
+
+**Progress**: Made much progress on SC2 project and have learnt so much.
+
+**Thoughts**: I can clearly see myself working on the SC2 project soon enough. Learnt about XGBoost model on a demo project from a Youtuber and i am definitely going to dig deeper into this. Explored slack community and asked for help on my ether project to make it work somehow. Trying to accelerate things but am also worried about missing on any important details so trying to take it slow as and where is required.
+
