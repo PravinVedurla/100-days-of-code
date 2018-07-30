@@ -72,3 +72,10 @@
 
 **Thoughts**: I can clearly see myself working on the SC2 project soon enough. Learnt about XGBoost model on a demo project from a Youtuber and i am definitely going to dig deeper into this. Explored slack community and asked for help on my ether project to make it work somehow. Trying to accelerate things but am also worried about missing on any important details so trying to take it slow as and where is required.
 
+## Days 9,10 : July 29,30
+
+**Progress**: Progress on both SC2 and Ether proects.
+
+**Thoughts**: Explored a few simple strategies into defeating AI bots( easy ones ovio) and i can see myself working deeper into this. Saw some youtubers working on Deeplearning with SC2 api. And i've decided to use XGBoost regression in my Ether proect along side the LSTM that i've already implemented, I thought of making an entire article comparing these two models and their results on the Ether dataset. On a similar note have worked a little bit on implementing the XGboost from conda.
+
+**Links**: https://www.kaggle.com/mburakergenc/predictions-with-xgboost-and-linear-regression (Found this notebook useful)
