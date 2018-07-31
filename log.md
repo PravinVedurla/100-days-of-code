@@ -79,3 +79,9 @@
 **Thoughts**: Explored a few simple strategies into defeating AI bots( easy ones ovio) and i can see myself working deeper into this. Saw some youtubers working on Deeplearning with SC2 api. And i've decided to use XGBoost regression in my Ether proect along side the LSTM that i've already implemented, I thought of making an entire article comparing these two models and their results on the Ether dataset. On a similar note have worked a little bit on implementing the XGboost from conda.
 
 **Links**: https://www.kaggle.com/mburakergenc/predictions-with-xgboost-and-linear-regression (Found this notebook useful)
+
+## Day 11 : July 31, 2018
+
+**Progress**: Implemented XGBoost and learnt about google cloud comp
+
+**Thoughts**: The grand failure of XGBoost has been updated to my Ether project, It gave out a simple straight line just like LSTM and now i am doubting my Data augmentation technique and gonna look into it sometime. Explored a  lil bit about Google Cloud TPUs and to use Colabs to train our models which looked promising as i only have limited gpu power in my setup.
