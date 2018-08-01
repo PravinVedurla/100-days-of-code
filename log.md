@@ -85,3 +85,10 @@
 **Progress**: Implemented XGBoost and learnt about google cloud comp
 
 **Thoughts**: The grand failure of XGBoost has been updated to my Ether project, It gave out a simple straight line just like LSTM and now i am doubting my Data augmentation technique and gonna look into it sometime. Explored a  lil bit about Google Cloud TPUs and to use Colabs to train our models which looked promising as i only have limited gpu power in my setup.
+
+## Day 12 : Aug 1, 2018
+
+**Progress**: Made progress on a brand new project
+
+**Thoughts**: Made some digging into simple Face feature detection and decided to work on a simple face and smile detector with a few add ons from my side. 
+
