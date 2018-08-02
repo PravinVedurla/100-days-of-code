@@ -92,3 +92,8 @@
 
 **Thoughts**: Made some digging into simple Face feature detection and decided to work on a simple face and smile detector with a few add ons from my side. 
 
+## Day 13 : Aug 2, 2018
+
+**Progress**: Progress on Face Detection project.
+
+**Thoughts**: Got all the req cascading files and got the code ready. Got issues putting up the Cam module to provide active feed to the program so that it can return all the detections sketched on the canvas.
