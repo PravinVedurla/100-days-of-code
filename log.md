@@ -97,3 +97,5 @@
 **Progress**: Progress on Face Detection project.
 
 **Thoughts**: Got all the req cascading files and got the code ready. Got issues putting up the Cam module to provide active feed to the program so that it can return all the detections sketched on the canvas.
+
+**Links**: http://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php (This was helpful)
