@@ -99,3 +99,11 @@
 **Thoughts**: Got all the req cascading files and got the code ready. Got issues putting up the Cam module to provide active feed to the program so that it can return all the detections sketched on the canvas.
 
 **Links**: http://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php (This was helpful)
+
+## Day 14,15 : Aug 3,4
+
+**Progress**: Done with the Face detection project and it works allright.
+
+**Thoughts**: Ready to start with a small image classification project or with the SC2 project. Imma paralelly go with Learning LSTMs aswell. exited for tomorrow.
+
+
