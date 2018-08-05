@@ -106,4 +106,8 @@
 
 **Thoughts**: Ready to start with a small image classification project or with the SC2 project. Imma paralelly go with Learning LSTMs aswell. exited for tomorrow.
 
+## Day 16 : Aug 5
 
+**Progress**: A bit of tuning with the Face detection. Explored a bit of LSTM seq2seq models required for Chatbots.
+
+**Thoughts**:Will have to add a few Example output images to the Facedetection project soon. And i do see myself working on Lstm chatbots in the future once am done with the whole CV paradigm. I think imma work on GANs next, Been waiting to say this for a while now. yay
