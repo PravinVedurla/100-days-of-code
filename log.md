@@ -111,3 +111,9 @@
 **Progress**: A bit of tuning with the Face detection. Explored a bit of LSTM seq2seq models required for Chatbots.
 
 **Thoughts**:Will have to add a few Example output images to the Facedetection project soon. And i do see myself working on Lstm chatbots in the future once am done with the whole CV paradigm. I think imma work on GANs next, Been waiting to say this for a while now. yay
+
+## Days 17,18 : Aug 5,6
+
+**Progress**: Researched everything about GANs and i clearly see myself working on this real soon.
+
+**Thoughts**: Done with the Architectural part of GANs and want to work on some Architectural Datasets thus getting my AI to generate some "Evil-Uncommon-Architectural-Structures". Which seems to be way Overwhelming than other projects considering the fact that i have to manage my college schedule aswell along with these projects.
