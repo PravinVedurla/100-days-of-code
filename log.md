@@ -125,3 +125,12 @@
 **Thoughts**: There's no turning back at this point as i'm done with learning to code the GANs with KERAs along with a Portal where i get the Images from. Gonna have to work on Tuning the images to work in the GANs.
 
 **Links**: http://www.image-net.org/search?q=building
+
+## Days 21, 22 : Aug 10,11
+
+**Progress**: Progress on GANs
+
+**Thoughts**: Worked on Learning the Core Architecture of GANs and this actually goes real Deep. Been going through multiple articles and Projects to get their Insights.
+
+**Links**: https://blog.openai.com/generative-models/
+https://en.wikipedia.org/wiki/Autoencoder
