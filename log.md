@@ -133,4 +133,5 @@
 **Thoughts**: Worked on Learning the Core Architecture of GANs and this actually goes real Deep. Been going through multiple articles and Projects to get their Insights.
 
 **Links**: https://blog.openai.com/generative-models/
+
 https://en.wikipedia.org/wiki/Autoencoder
