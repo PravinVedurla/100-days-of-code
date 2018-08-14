@@ -135,3 +135,11 @@
 **Links**: https://blog.openai.com/generative-models/
 
 https://en.wikipedia.org/wiki/Autoencoder
+
+## Days 23, 24 : Aug 12,13
+
+**Progress**: Progress with GANS and A bit of learning.
+
+**Thoughts** : Been super busy with College schedule to be frank. Worked on image augmentation ripping it to get through. I'm not sure if i have enough computation power to make it through this project so i'll rescale the images to as small as possible keeping efficiency in mind. Gotta finish this project this week.
+
+**Links**: -
