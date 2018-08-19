@@ -143,3 +143,29 @@ https://en.wikipedia.org/wiki/Autoencoder
 **Thoughts** : Been super busy with College schedule to be frank. Worked on image augmentation ripping it to get through. I'm not sure if i have enough computation power to make it through this project so i'll rescale the images to as small as possible keeping efficiency in mind. Gotta finish this project this week.
 
 **Links**: -
+
+## Days 25, 26 : Aug 14,15
+
+**Progress**: Made a simple MNIST gan instead. Done a Recommendation system with LIghtFM
+
+**Thoughts**: Decided to make a simple MNIST generation first inorder to understand the code well enough. And also worked on Recommendation systems using LightFM. 
+
+## Day 27 : Aug 16
+
+**Progress**: Completely done with the MNIST gan also collected data for the Architectural buildings project.
+
+**Thoughts**: None?
+
+
+## Day 28: Aug 17
+
+**Progress**: Image preprocessing on PokeGan project alongside started with a detailed Tensorflow course.
+
+**Thoughts**: The idea of generating new pokemons was pretty cool and that too using DCGANs is pretty cool, so i've straight up collected data and resized it. Also started with a Tensorflow course to dig deep.
+
+## Day 29: Aug 18
+
+**Progress**: Learnt about Cloud ML in of the workshops.
+
+**Thoughts**: Attended GDG's cloud ML workshop and tried out some of the pretrained models on googles cloud engine.
+
