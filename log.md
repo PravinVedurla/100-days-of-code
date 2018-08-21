@@ -157,15 +157,18 @@ https://en.wikipedia.org/wiki/Autoencoder
 **Thoughts**: None?
 
 
-## Day 28: Aug 17
+## Day 28,29: Aug 17,18
 
 **Progress**: Image preprocessing on PokeGan project alongside started with a detailed Tensorflow course.
 
 **Thoughts**: The idea of generating new pokemons was pretty cool and that too using DCGANs is pretty cool, so i've straight up collected data and resized it. Also started with a Tensorflow course to dig deep.
 
-## Day 29: Aug 18
+## Day 30: Aug 19
 
 **Progress**: Learnt about Cloud ML in of the workshops.
 
 **Thoughts**: Attended GDG's cloud ML workshop and tried out some of the pretrained models on googles cloud engine.
 
+## Day 31,32: Aug 20,21
+
+**Progress**:
